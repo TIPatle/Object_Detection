@@ -1,0 +1,16 @@
+item { 
+	name:"thumpsup"
+	id:1
+}
+item { 
+	name:"thumpsdown"
+	id:2
+}
+item { 
+	name:"thankyou"
+	id:3
+}
+item { 
+	name:"mobile"
+	id:4
+}
